@@ -13,3 +13,8 @@ your site. Will try to make simpler 3D objects and implement them into Portfolio
 
 Anyway, need to learn how to use Figma properly and I will start Portfolio Project with Spline.
 See ya in next project!
+
+
+Spline website: https://spline.design/
+
+Yt tutorial: https://www.youtube.com/watch?v=EJxeMbDTkVI&list=PL6-RV8_Xfo6Hy4qvSWNWPVZBi1yTxjjEE&index=1&t=2463s
